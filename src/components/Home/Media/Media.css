@@ -1,0 +1,20 @@
+.media-container a * {
+    padding: 15px;
+}
+
+
+.media-container a *:hover {
+    background-color: rgba(185, 185, 185, 0.788);
+    border-radius: 4px;
+}
+
+.media-container {
+    background-color: #ffffff;
+    width: fit-content;
+    padding: 8px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgb(197, 197, 197);
+    position: absolute;
+    top: 50%;
+    transform: translate(0%, -50%);
+}

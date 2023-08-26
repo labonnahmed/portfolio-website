@@ -1,0 +1,27 @@
+.nav-menu ul li {
+    padding: 0px 20px;
+}
+
+.nav-menu li:hover {
+    color: #7843E9;
+}
+
+@media screen and (max-width: 767px) {
+    .nav-menu ul li {
+        margin-left: auto;
+        padding: 20px 0px;
+        border-top: 1px solid rgb(218, 218, 218);
+        width: 100%;
+        text-align: right;
+        color: rgba(12, 12, 12, 0.795);
+        font-weight: 500;
+        padding-right: 100%;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .own-nav{
+        padding: 8px;
+    }
+}

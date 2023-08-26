@@ -1,0 +1,37 @@
+[
+    {
+        "id":"project_1",
+        "img":"project1.png",
+        "title":"Doctors Portal",
+        "description":"Dopefolio is a successful Open-Source project that I created which have been featured on some of the biggest tech sites like CSS-Tricks, Hostinger, etc & used by thousands of developers globally",
+        "link": "https://github.com/labonnahmed/doctors_portal",
+        "Tools":["HTML", "CSS", "JavaScript", "React", "React Router", "Github"]
+    },
+    {
+        "id":"project_2",
+        "img":"project2.png",
+        "title":"Burj Al Arab",
+        "description":"Dopefolio is a successful Open-Source project that I created which have been featured on some of the biggest tech sites like CSS-Tricks, Hostinger, etc & used by thousands of developers globally",
+        "link":"https://github.com/labonnahmed/burj-al-arab-client",
+        "live": "https://arabian-luxury-hotel-booking.vercel.app/",
+        "Tools":["React", "Node.js", "JavaScript", "MUI", "Express.js", "MongoDB"]
+    },
+    {
+        "id":"project_3",
+        "img":"project3.png",
+        "title":"Volunteer Network",
+        "live":"https://volunteer-newtork.vercel.app/",
+        "description":"Dopefolio is a successful Open-Source project that I created which have been featured on some of the biggest tech sites like CSS-Tricks, Hostinger, etc & used by thousands of developers globally",
+        "link":"https://github.com/labonnahmed/volunteer-network-socialWorks",
+        "Tools":["React", "Node.js", "JavaScript", "MongoDB", "Express.js", "Firebase"]
+    },
+    {
+        "id":"project_4",
+        "img":"project4.png",
+        "title":"Creative Agency",
+        "live" : "https://creative-agency-work.web.app/",
+        "description":"Dopefolio is a successful Open-Source project that I created which have been featured on some of the biggest tech sites like CSS-Tricks, Hostinger, etc & used by thousands of developers globally",
+        "link":"https://github.com/labonnahmed/Creative-agency-front-end",
+        "Tools":["React", "Node.js", "JavaScript", "TailwindCSS", "Express.js", "MongoDB"]
+    }
+]
