@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactFrom = () => {
     return (
-        <form className='bg-gray-50 py-10 rounded-md'>
+        <form className='bg-gray-50 py-10 rounded-md max-md:pr-4'>
             <div class="mb-8 w-10/12 mx-auto">
                 <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-600">Name</label>
                 <input type="text" id="name" class="bg-gray-50 border border-gray-200   text-gray-900 text-sm rounded-lg w-full   block  py-6 pl-3 dark:bg-[#F0F0F0]  dark:placeholder-gray-400 dark:text-gray-600 " placeholder="Enter Your Name" required/>

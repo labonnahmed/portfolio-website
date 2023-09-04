@@ -13,9 +13,9 @@ const HeaderMain = () => {
                         </span>
                     </p>
                 </div>
-                <a href="#projects">
-                    <button className="bg-[#7843E9] text-lg hover:bg-[#9166ec] text-white font-bold py-4 px-16 rounded uppercase tracking-widest mt-10">
-                        Projects
+                <a href="https://ivory-cordey-51.tiiny.site" attributes-list download>
+                    <button className="bg-[#7843E9] text-lg hover:bg-[#9166ec] text-white font-bold py-4 px-6 rounded uppercase tracking-widest mt-10">
+                        Download resume
                     </button>
                 </a>
             </div>
